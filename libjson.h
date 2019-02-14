@@ -3,7 +3,6 @@
 
 /**
  * @file libjson.h
- * @author Bronson Graansma
  * @date 2018-06-11
  * 
  * A json library for handling a json data structure.
